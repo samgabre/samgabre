@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samgabre
 - 👀👨‍🍳 I’m interested in cooking
--🎼🎹 I’m a musician
+- 🎼🎹 I’m a musician
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
